@@ -1,0 +1,26 @@
+body {
+  background-color: #aacccc;
+}
+.img-menores div {
+  margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+h3 {
+  line-height: 100px;
+}
+h4 {
+  line-height: 80px;
+}
+/* mobile */
+.card {
+  margin: 0 10px;
+  border-radius: 15px 15px 15px 15px;
+  width: 200px;
+  height: 450px;
+}
+.img-fluid {
+  border-radius: 15px 15px 0 0;
+  height: 50%;
+  /* width: 50%; */
+}
